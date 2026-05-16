@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Architecture-MVI-FF6B6B?style=for-the-badge"/>
 
 <br/><br/>
-
+[AI Agent Repository](https://github.com/chanho0908/Keepiluv-Agent)
 > ### *"서로를 원동력으로, 멈추지 않는 우리."*
 > **keep it luv! 💘**
 
